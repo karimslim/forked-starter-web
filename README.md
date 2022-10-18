@@ -1,5 +1,6 @@
 # Starter web project
-This is a simple project for mastering git
+This is a simple project for mastering git. 
+Adding a line for rebasing example.
 
 ## Introduction 
 This is a web app
